@@ -304,6 +304,13 @@ class ViewController: UIViewController {
         smoking.hidden = true
         timerSmoke.invalidate()
     }
-
+    
+    override func viewWillAppear(animated: Bool) {
+        self.navigationController?.navigationBarHidden =  true
+        
+        UIApplication.sharedApplication().statusBarHidden = false
+        UIApplication.sharedApplication().statusBarStyle = .LightContent
+    }
+    
 }
 
