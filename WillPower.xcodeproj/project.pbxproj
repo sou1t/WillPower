@@ -14,6 +14,26 @@
 		3F382A651CECF5BD008D4EDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F382A631CECF5BD008D4EDF /* LaunchScreen.storyboard */; };
 		3F382A701CECF5BD008D4EDF /* WillPowerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F382A6F1CECF5BD008D4EDF /* WillPowerTests.swift */; };
 		3F382A7B1CECF5BD008D4EDF /* WillPowerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F382A7A1CECF5BD008D4EDF /* WillPowerUITests.swift */; };
+		3F382A891CED1952008D4EDF /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F382A881CED1952008D4EDF /* AddViewController.swift */; };
+		3F382A8E1CEDDA6A008D4EDF /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F382A8D1CEDDA6A008D4EDF /* logo.png */; };
+		3F382A931CEDE3BD008D4EDF /* AddCustomButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F382A8F1CEDE3BD008D4EDF /* AddCustomButton.png */; };
+		3F382A941CEDE3BD008D4EDF /* startDietButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F382A901CEDE3BD008D4EDF /* startDietButton.png */; };
+		3F382A951CEDE3BD008D4EDF /* stopDrinkingButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F382A911CEDE3BD008D4EDF /* stopDrinkingButton.png */; };
+		3F382A961CEDE3BD008D4EDF /* stopSmokingButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F382A921CEDE3BD008D4EDF /* stopSmokingButton.png */; };
+		3FAD80211CEE1DE0007106E1 /* proximanova-black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD801F1CEE1DE0007106E1 /* proximanova-black.otf */; };
+		3FAD80221CEE1DE0007106E1 /* proximanova-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80201CEE1DE0007106E1 /* proximanova-bold.otf */; };
+		3FAD80251CEE22A7007106E1 /* CancelButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80231CEE22A7007106E1 /* CancelButton.png */; };
+		3FAD80261CEE22A7007106E1 /* ClockView.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80241CEE22A7007106E1 /* ClockView.png */; };
+		3FAD80281CEE7092007106E1 /* addfield.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80271CEE7092007106E1 /* addfield.png */; };
+		3FAD802A1CEE709D007106E1 /* proximanova-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80291CEE709D007106E1 /* proximanova-regular.otf */; };
+		3FAD802C1CEE741F007106E1 /* AddCustomView.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD802B1CEE741F007106E1 /* AddCustomView.png */; };
+		3FAD802E1CEE7CD4007106E1 /* LaunchLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD802D1CEE7CD4007106E1 /* LaunchLogo.png */; };
+		3FAD80311CEE8060007106E1 /* icon_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD802F1CEE8060007106E1 /* icon_2x.png */; };
+		3FAD80321CEE8060007106E1 /* icon_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80301CEE8060007106E1 /* icon_3x.png */; };
+		3FAD80371CEE81DF007106E1 /* icon58.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80331CEE81DF007106E1 /* icon58.png */; };
+		3FAD80381CEE81DF007106E1 /* icon80.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80341CEE81DF007106E1 /* icon80.png */; };
+		3FAD80391CEE81DF007106E1 /* icon87.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80351CEE81DF007106E1 /* icon87.png */; };
+		3FAD803A1CEE81DF007106E1 /* icon120.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FAD80361CEE81DF007106E1 /* icon120.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +67,26 @@
 		3F382A761CECF5BD008D4EDF /* WillPowerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WillPowerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F382A7A1CECF5BD008D4EDF /* WillPowerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WillPowerUITests.swift; sourceTree = "<group>"; };
 		3F382A7C1CECF5BD008D4EDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F382A881CED1952008D4EDF /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
+		3F382A8D1CEDDA6A008D4EDF /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = Resourses/images/logo.png; sourceTree = "<group>"; };
+		3F382A8F1CEDE3BD008D4EDF /* AddCustomButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AddCustomButton.png; path = Resourses/images/AddCustomButton.png; sourceTree = "<group>"; };
+		3F382A901CEDE3BD008D4EDF /* startDietButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = startDietButton.png; path = Resourses/images/startDietButton.png; sourceTree = "<group>"; };
+		3F382A911CEDE3BD008D4EDF /* stopDrinkingButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = stopDrinkingButton.png; path = Resourses/images/stopDrinkingButton.png; sourceTree = "<group>"; };
+		3F382A921CEDE3BD008D4EDF /* stopSmokingButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = stopSmokingButton.png; path = Resourses/images/stopSmokingButton.png; sourceTree = "<group>"; };
+		3FAD801F1CEE1DE0007106E1 /* proximanova-black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "proximanova-black.otf"; path = "Resourses/fonts/proximanova-black.otf"; sourceTree = "<group>"; };
+		3FAD80201CEE1DE0007106E1 /* proximanova-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "proximanova-bold.otf"; path = "Resourses/fonts/proximanova-bold.otf"; sourceTree = "<group>"; };
+		3FAD80231CEE22A7007106E1 /* CancelButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CancelButton.png; path = Resourses/images/CancelButton.png; sourceTree = "<group>"; };
+		3FAD80241CEE22A7007106E1 /* ClockView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ClockView.png; path = Resourses/images/ClockView.png; sourceTree = "<group>"; };
+		3FAD80271CEE7092007106E1 /* addfield.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = addfield.png; path = Resourses/images/addfield.png; sourceTree = "<group>"; };
+		3FAD80291CEE709D007106E1 /* proximanova-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "proximanova-regular.otf"; path = "Resourses/fonts/proximanova-regular.otf"; sourceTree = "<group>"; };
+		3FAD802B1CEE741F007106E1 /* AddCustomView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AddCustomView.png; path = Resourses/images/AddCustomView.png; sourceTree = "<group>"; };
+		3FAD802D1CEE7CD4007106E1 /* LaunchLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchLogo.png; path = Resourses/images/LaunchLogo.png; sourceTree = "<group>"; };
+		3FAD802F1CEE8060007106E1 /* icon_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon_2x.png; path = Resourses/images/icon_2x.png; sourceTree = "<group>"; };
+		3FAD80301CEE8060007106E1 /* icon_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon_3x.png; path = Resourses/images/icon_3x.png; sourceTree = "<group>"; };
+		3FAD80331CEE81DF007106E1 /* icon58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon58.png; path = Resourses/images/icon58.png; sourceTree = "<group>"; };
+		3FAD80341CEE81DF007106E1 /* icon80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon80.png; path = Resourses/images/icon80.png; sourceTree = "<group>"; };
+		3FAD80351CEE81DF007106E1 /* icon87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon87.png; path = Resourses/images/icon87.png; sourceTree = "<group>"; };
+		3FAD80361CEE81DF007106E1 /* icon120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon120.png; path = Resourses/images/icon120.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +137,10 @@
 		3F382A591CECF5BD008D4EDF /* WillPower */ = {
 			isa = PBXGroup;
 			children = (
+				3F382A8A1CEDDA3A008D4EDF /* Resourses */,
 				3F382A5A1CECF5BD008D4EDF /* AppDelegate.swift */,
 				3F382A5C1CECF5BD008D4EDF /* ViewController.swift */,
+				3F382A881CED1952008D4EDF /* AddViewController.swift */,
 				3F382A5E1CECF5BD008D4EDF /* Main.storyboard */,
 				3F382A611CECF5BD008D4EDF /* Assets.xcassets */,
 				3F382A631CECF5BD008D4EDF /* LaunchScreen.storyboard */,
@@ -123,6 +165,48 @@
 				3F382A7C1CECF5BD008D4EDF /* Info.plist */,
 			);
 			path = WillPowerUITests;
+			sourceTree = "<group>";
+		};
+		3F382A8A1CEDDA3A008D4EDF /* Resourses */ = {
+			isa = PBXGroup;
+			children = (
+				3F382A8C1CEDDA4D008D4EDF /* fonts */,
+				3F382A8B1CEDDA46008D4EDF /* images */,
+			);
+			name = Resourses;
+			sourceTree = "<group>";
+		};
+		3F382A8B1CEDDA46008D4EDF /* images */ = {
+			isa = PBXGroup;
+			children = (
+				3FAD80331CEE81DF007106E1 /* icon58.png */,
+				3FAD80341CEE81DF007106E1 /* icon80.png */,
+				3FAD80351CEE81DF007106E1 /* icon87.png */,
+				3FAD80361CEE81DF007106E1 /* icon120.png */,
+				3FAD802F1CEE8060007106E1 /* icon_2x.png */,
+				3FAD80301CEE8060007106E1 /* icon_3x.png */,
+				3FAD802D1CEE7CD4007106E1 /* LaunchLogo.png */,
+				3FAD802B1CEE741F007106E1 /* AddCustomView.png */,
+				3FAD80271CEE7092007106E1 /* addfield.png */,
+				3FAD80231CEE22A7007106E1 /* CancelButton.png */,
+				3FAD80241CEE22A7007106E1 /* ClockView.png */,
+				3F382A8F1CEDE3BD008D4EDF /* AddCustomButton.png */,
+				3F382A901CEDE3BD008D4EDF /* startDietButton.png */,
+				3F382A911CEDE3BD008D4EDF /* stopDrinkingButton.png */,
+				3F382A921CEDE3BD008D4EDF /* stopSmokingButton.png */,
+				3F382A8D1CEDDA6A008D4EDF /* logo.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		3F382A8C1CEDDA4D008D4EDF /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				3FAD80291CEE709D007106E1 /* proximanova-regular.otf */,
+				3FAD801F1CEE1DE0007106E1 /* proximanova-black.otf */,
+				3FAD80201CEE1DE0007106E1 /* proximanova-bold.otf */,
+			);
+			name = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,6 +277,7 @@
 				TargetAttributes = {
 					3F382A561CECF5BD008D4EDF = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = P89V4KBVYT;
 					};
 					3F382A6A1CECF5BD008D4EDF = {
 						CreatedOnToolsVersion = 7.3;
@@ -229,8 +314,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FAD80281CEE7092007106E1 /* addfield.png in Resources */,
+				3FAD80321CEE8060007106E1 /* icon_3x.png in Resources */,
+				3FAD80251CEE22A7007106E1 /* CancelButton.png in Resources */,
+				3F382A951CEDE3BD008D4EDF /* stopDrinkingButton.png in Resources */,
+				3F382A8E1CEDDA6A008D4EDF /* logo.png in Resources */,
+				3F382A961CEDE3BD008D4EDF /* stopSmokingButton.png in Resources */,
 				3F382A651CECF5BD008D4EDF /* LaunchScreen.storyboard in Resources */,
+				3FAD80391CEE81DF007106E1 /* icon87.png in Resources */,
+				3F382A931CEDE3BD008D4EDF /* AddCustomButton.png in Resources */,
+				3FAD80221CEE1DE0007106E1 /* proximanova-bold.otf in Resources */,
+				3FAD80311CEE8060007106E1 /* icon_2x.png in Resources */,
+				3FAD80261CEE22A7007106E1 /* ClockView.png in Resources */,
+				3FAD802A1CEE709D007106E1 /* proximanova-regular.otf in Resources */,
 				3F382A621CECF5BD008D4EDF /* Assets.xcassets in Resources */,
+				3FAD80211CEE1DE0007106E1 /* proximanova-black.otf in Resources */,
+				3FAD80381CEE81DF007106E1 /* icon80.png in Resources */,
+				3FAD802C1CEE741F007106E1 /* AddCustomView.png in Resources */,
+				3FAD802E1CEE7CD4007106E1 /* LaunchLogo.png in Resources */,
+				3FAD803A1CEE81DF007106E1 /* icon120.png in Resources */,
+				3F382A941CEDE3BD008D4EDF /* startDietButton.png in Resources */,
+				3FAD80371CEE81DF007106E1 /* icon58.png in Resources */,
 				3F382A601CECF5BD008D4EDF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,6 +362,7 @@
 			files = (
 				3F382A5D1CECF5BD008D4EDF /* ViewController.swift in Sources */,
 				3F382A5B1CECF5BD008D4EDF /* AppDelegate.swift in Sources */,
+				3F382A891CED1952008D4EDF /* AddViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -399,10 +504,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = WillPower/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Vitalyi.WillPower.WillPower;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -410,10 +518,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = WillPower/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Vitalyi.WillPower.WillPower;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
@@ -482,6 +593,7 @@
 				3F382A811CECF5BD008D4EDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F382A821CECF5BD008D4EDF /* Build configuration list for PBXNativeTarget "WillPowerTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +602,7 @@
 				3F382A841CECF5BD008D4EDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F382A851CECF5BD008D4EDF /* Build configuration list for PBXNativeTarget "WillPowerUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +611,7 @@
 				3F382A871CECF5BD008D4EDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
