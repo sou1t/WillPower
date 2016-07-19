@@ -7,15 +7,23 @@
 //
 
 import UIKit
+import YandexMobileMetrica
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+import YandexMobileMetrica
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        application.registerUserNotificationSettings(UIUserNotificationSettings(forTypes: [.Badge, .Sound, .Alert], categories: nil))
+
+        YMMYandexMetrica.activateWithApiKey("1db80b17-42dc-469f-b166-a5f133673b05")
+        YMMYandexMetrica.setLoggingEnabled(true)
+        YMMYandexMetrica.setReportCrashesEnabled(true)
+        
         return true
     }
 

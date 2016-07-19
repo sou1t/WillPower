@@ -25,6 +25,7 @@ class AddViewController: UIViewController, UITextFieldDelegate {
     }
     
     @IBOutlet weak var CustomTitle: UITextField!
+    
     @IBAction func AddButton(sender: AnyObject) {
         
         NSUserDefaults.standardUserDefaults().setObject(self.CustomTitle.text, forKey: "CustomTitle")
@@ -36,6 +37,10 @@ class AddViewController: UIViewController, UITextFieldDelegate {
     func textFieldShouldReturn(textField: UITextField) -> Bool {
         textField.resignFirstResponder()
         return true
+    }
+
+    override func preferredStatusBarStyle() -> UIStatusBarStyle {
+        return .LightContent
     }
 
     /*
